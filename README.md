@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 ---
 
 ### 💫 About Me
-Saya adalah mahasiswa **Teknik Industri** di Universitas Sumatera Utara yang memiliki minat besar pada teknologi, astronomi, dan pengembangan masyarakat. Saya senang menggabungkan pemikiran analitis teknik dengan solusi berbasis digital.
+Saya adalah mahasiswa **Teknik Industri** di Universitas Sumatera Utara yang memiliki minat besar pada teknologi, astronomi, dan pengembangan diri.
 
-- 🎓 **Education:** Sedang menempuh S1 Teknik Industri di USU (Angkatan 2024).
-- 🚀 **Tech Community:** Anggota **Google Developer Groups on Campus (GDGoC) USU**.
-- 🌌 **Fun Fact:** Saya adalah finalis OSN-K dan OSN-P Astronomi tahun 2023.
-- 🌱 **Focus:** Saat ini sedang mendalami pengolahan data dasar dan pengembangan sistem industri yang efisien.
+- 🎓 **Education:** Sedang menempuh **S1 Teknik Industri di USU (Angkatan 2024)**.
+- 🚀 **Tech Community:** Anggota **.id Community Medan** dan **Google Developer Groups on Campus (GDGoC) USU**.
+- 🌌 **Fun Fact:** Saya sangat suka dengan malam hari.
+- 🌱 **Focus:** Saat ini sedang berupaya terus untuk mengembangkan diri dalam banyak hal secara khusus di bidang **Data Science** dan **Machine Learning**.
 
 ---
 
@@ -78,16 +78,18 @@ Saya adalah mahasiswa **Teknik Industri** di Universitas Sumatera Utara yang mem
 ---
 
 ### 📩 Let's Connect!
-Saya selalu terbuka untuk kolaborasi dalam proyek teknologi atau diskusi tentang teknik industri dan sains.
+Saya selalu terbuka untuk kolaborasi dalam proyek teknologi atau diskusi tentang teknik industri dan sains maupun hal-hal yang menarik lainnya.
 
 <p align="left">
-  <a href="https://linkedin.com/in/fayiz-afif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:fayizafif6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/fayiz-afif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/fayiz_.afif"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.facebook.com/fayiz.afif"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 ---
 
-### 📈 My GitHub Statistics
+### 📈 My GitHub Statistics & Programming Languages
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Onyx087&show_icons=true&theme=tokyonight" alt="Onyx087's GitHub Stats" />
