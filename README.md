@@ -41,14 +41,27 @@ Saya adalah mahasiswa **Teknik Industri** di Universitas Sumatera Utara yang mem
 
 ### 🛠️ Skills & Tools
 
-**Programming & Data**
+**Programming Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+</p>
+
+**Data Science & Machine Learning**
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
   <img src="https://img.shields.io/badge/Data_Processing-FFCA28?style=for-the-badge&logo=google-analytics&logoColor=black" alt="Data">
 </p>
 
-**Productivity & Documentation**
+  
+**Productivity**
 <p align="left">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word">
@@ -57,10 +70,10 @@ Saya adalah mahasiswa **Teknik Industri** di Universitas Sumatera Utara yang mem
 ---
 
 ### 🏆 Achievements & Organizations
-- **GDGoC USU:** Berkolaborasi dalam menyelenggarakan workshop coding dan tech talks.
 - **SRE (Society of Renewable Energy) USU:** Kepala bidang inovasi yang fokus pada pengembangan diri di bidang perlombaan serta kampanye energi terbarukan.
-- **Finalis OSN-K & OSN-P Astronomi (2023):** Memiliki dasar logika dan pemahaman sains yang kuat.
-- **HIMTI FT-USU:** Berkontribusi dalam divisi kerohanian dan kesejahteraan mahasiswa.
+- **GDGoC USU:** Berkolaborasi serta aktif dalam mengikuti workshop coding dan tech talks.
+- **Finalis OSN Astronomi (2023):** Memiliki dasar logika dan pemahaman sains yang kuat.
+- **HIMTI FT-USU:** Berkontribusi dalam divisi kerohanian.
 
 ---
 
@@ -71,6 +84,10 @@ Saya selalu terbuka untuk kolaborasi dalam proyek teknologi atau diskusi tentang
   <a href="https://linkedin.com/in/fayiz-afif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:fayizafif6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+---
+
+### 📈 My GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Onyx087&show_icons=true&theme=tokyonight" alt="Onyx087's GitHub Stats" />
