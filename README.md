@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Fayiz Afif! 👋</h1>
 
 <p align="center">
-  <strong>Industrial Engineering Student | Astronomy Enthusiast | Tech Explorer</strong>
+  <strong>Industrial Engineering Student | Tech Explorer | Renewable Energy, Data Science, and Machine Learning Enthusiast </strong>
 </p>
 
 <p align="center">
@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 ---
 
 ### 💫 About Me
-Saya adalah mahasiswa **Teknik Industri** di Universitas Sumatera Utara yang memiliki minat besar pada teknologi, astronomi, dan pengembangan diri.
+I am an **Industrial Engineering** student at the University of North Sumatra who has a great interest in technology, astronomy, and self-development.
 
-- 🎓 **Education:** Sedang menempuh **S1 Teknik Industri di USU (Angkatan 2024)**.
-- 🚀 **Tech Community:** Anggota **.id Community Medan** dan **Google Developer Groups on Campus (GDGoC) USU**.
-- 🌌 **Fun Fact:** Saya sangat suka dengan malam hari.
-- 🌱 **Focus:** Saat ini sedang berupaya terus untuk mengembangkan diri dalam banyak hal secara khusus di bidang **Data Science** dan **Machine Learning**.
+- 🎓 **Education:** Currently pursuing **S1 Industrial Engineering at USU (Class of 2024)**.
+- 🚀 **Tech Community:** Member of **.id Community Medan** and **Google Developer Groups on Campus (GDGoC) USU**.
+- 🌌 **Fun Fact:** I really like the evening and stargazing.
+- 🌱 **Focus:** Currently, I am continuously striving to develop myself in many areas, especially in the fields of **Data Science** and **Machine Learning**.
 
 ---
 
@@ -70,15 +70,15 @@ Saya adalah mahasiswa **Teknik Industri** di Universitas Sumatera Utara yang mem
 ---
 
 ### 🏆 Achievements & Organizations
-- **SRE (Society of Renewable Energy) USU:** Kepala bidang inovasi yang fokus pada pengembangan diri di bidang perlombaan serta kampanye energi terbarukan.
-- **GDGoC USU:** Berkolaborasi serta aktif dalam mengikuti workshop coding dan tech talks.
-- **Finalis OSN Astronomi (2023):** Memiliki dasar logika dan pemahaman sains yang kuat.
-- **HIMTI FT-USU:** Berkontribusi dalam divisi kerohanian.
+- **SRE (Society of Renewable Energy) USU:** Head of innovation who focuses on self-development in the field of renewable energy competitions and campaigns.
+- **GDGoC USU:** Collaborate and actively participate in coding workshops and tech talks.
+- **OSN Astronomy Finalist (2023):** Have a strong foundation in logic and understanding of science.
+- **HIMTI FT-USU:** Contribute to the spiritual division.
 
 ---
 
 ### 📩 Let's Connect!
-Saya selalu terbuka untuk kolaborasi dalam proyek teknologi atau diskusi tentang teknik industri dan sains maupun hal-hal yang menarik lainnya.
+I am always open to collaboration on technology projects or discussions about industrial engineering and science or other interesting things.
 
 <p align="left">
   <a href="mailto:fayizafif6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
